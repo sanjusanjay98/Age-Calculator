@@ -1,14 +1,8 @@
------
-
 # 📅 Age Calculator App
 
 A simple and intuitive web application built with HTML, CSS, and JavaScript that accurately calculates your age down to the day from your date of birth.
 
 [**➡️ View the Live Demo Here\!**](https://sanjusanjay98.github.io/Age-Calculator/)
-
-## 📸 Screenshot
-
-*(It's highly recommended to add a screenshot of your app here\! Just replace the placeholder link below with a link to your image.)*
 
 ## ✨ Features
 
