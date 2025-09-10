@@ -1,7 +1,3 @@
-Of course\! A good README is key to showcasing your project. Here is a complete README file for your Age Calculator application, written directly in the chat for easy copying.
-
-Just copy the text below and paste it into the `README.md` file in your `Age-Calculator` repository on GitHub.
-
 -----
 
 # 📅 Age Calculator App
